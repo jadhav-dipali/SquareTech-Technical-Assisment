@@ -1,0 +1,26 @@
+#top-nav-container{
+    display: flex;
+   justify-content: space-between;
+   padding: 3vh;
+   color: aliceblue;
+
+}
+#logo-container{
+    display: flex;
+}
+#naming-container{
+    display: flex;
+}
+#naming-container ul{
+    display: flex;
+    list-style: none;
+    gap: 5vh;
+}
+.logo-of-the-nav{
+    margin-left: 2vh;
+    margin-right: 2vh;
+}
+#naming-container ul li{
+  font-size: large;
+  font-weight: bold;
+}

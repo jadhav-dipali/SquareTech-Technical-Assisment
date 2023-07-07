@@ -1,0 +1,163 @@
+#home1-container{
+    height: 100vh;
+    background-image:url("../Images/Home1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#home-page-content{
+    display: flex;
+    flex: 1;
+}
+#content-of-home-page{
+    width: 50%;
+    padding: 90px;
+}
+#header-name-content{
+    font-size: 70px;
+    color: #fff;
+}
+#para-of-the-home{
+    color: #fff;
+}
+.readMore-btn{
+    height: 50px;
+    padding: 2vh;
+    width: 160px;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 25px;
+    background-color: #6090D8;
+    border-color: #6090D8;
+    color: #fff;
+}
+#images-container{
+    text-align: center;
+}
+.imge-logos{
+    margin-left: 7vh;
+    height: 5vh;
+}
+#trusted-by{
+    text-align: center;
+    margin-bottom: 3vh;
+    font-size: large;
+    font-weight: bold;
+    color: gray;
+}
+#second-slide-of-home-page{
+    display: flex;
+    flex: 1;
+    margin-top: 10vh;
+    height: 100vh;
+    background-color: #D1E8E6;
+}
+#imge-second-slide-home{
+    height: 100vh;
+}
+#left-side-of-the-second-slide{
+    width: 100%;
+}
+#left-side-of-the-second-slide{
+    width: 100%;
+}
+#second-slide-div{
+    width: 70%;
+}
+#left-side-of-the-second-slide{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#about-second-slide{
+    color: gray;
+}
+#para-of-second-slide{
+    color: gray;
+}
+#heading-of-second-slide{
+    font-size: 50px;
+
+}
+.threeimages-in-thirdSlide{
+width: 100%;
+}
+#image-card-holder{
+display: flex;
+justify-content: space-around;
+}
+.image-card-container{
+width: 50vh;
+height: auto;
+box-shadow: 3px 3px 10px black;
+ text-align: center;
+ padding: 1vh;
+}
+.lorem-para-card{
+    font-size: large;
+    font-weight: bold;
+}
+.image-card-container:hover{
+    margin-top: 7vh;
+}
+#more-servicess{
+    text-align: center;
+    margin-top: 8vh;
+}
+.slide-three{
+    text-align: right;
+    padding: 10vh;
+}
+.service{
+    text-align: center;
+}
+#fifth-slide-of-the-page{
+    text-align: center;
+    margin-left: 35%;
+}
+#dataof-fifth-slide{
+    width: 50%;
+}
+#sixth-slide-container{
+    height: 100vh;
+    display: flex;
+    flex: 1;
+    background-image: url("../Images/Rectangle\ 20.png");
+}
+#left-side-sixth-slide-home{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 30px;
+}
+#right-side-sixth-slide-home{
+    width: 100%;
+    display: flex;
+    gap: 5vh;
+}
+.image-what-people-say{
+    height: 350px;
+    margin-top: 30vh;
+    background-color: #fff;
+}
+.lorem-para-card-abc{
+    text-align: center;
+}
+#footer-of-the-home{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: #fff;
+}
+#right-side-footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: -20px;
+}
+#left-side-footer{
+    width: 100%;
+  
+}
